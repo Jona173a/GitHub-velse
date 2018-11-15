@@ -10,7 +10,7 @@ namespace GitHub_øvelse
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hallo World!");
+            Console.WriteLine("Hello World!");
             Console.ReadKey();
         }
     }
