@@ -11,7 +11,8 @@ namespace GitHub_øvelse
         static void Main(string[] args)
         {
             Console.WriteLine("Hej verden");
-            Console.WriteLine("My name is Fisnik");
+            Console.WriteLine("My name is Jonathan");
+            Console.WriteLine("Hej Fisnik");
             Console.ReadKey();
         }
     }
