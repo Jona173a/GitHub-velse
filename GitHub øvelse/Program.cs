@@ -13,6 +13,7 @@ namespace GitHub_øvelse
             Console.WriteLine("Hej verden");
             Console.WriteLine("My name is Jonathan");
             Console.WriteLine("Hej Fisnik");
+            Console.WriteLine("skrid fra mit github");
             Console.ReadKey();
         }
     }
